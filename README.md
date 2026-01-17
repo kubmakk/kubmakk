@@ -40,4 +40,4 @@ My site: [kubmakk.ru](https://kubmakk.ru/)
 
 - [circleBotTelegram]() - Make your video to video message around the circle 
 
-next project is soon :)
+next project soon :)
