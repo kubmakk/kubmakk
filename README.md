@@ -23,7 +23,7 @@
 
 Nikita, 18 y.o.
 
-Jun iOS-Developer, linux enthusiast 
+Jun iOS-Developer, Linux enthusiast 
 
 ### My Languages:
 
@@ -37,7 +37,24 @@ Meet me in Kazan: [@KazanInIT](https://t.me/KazanInIT)
 My site: [kubmakk.ru](https://kubmakk.ru/)
 
 ## some of my projects
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [circleBotTelegram](https://github.com/kubmakk/circleBotTelegram) - Convert your videos into round video messages
+- [AnonBot](https://github.com/kubmakk/AnonBot) - Allows people to send you messages anonymously
 
-- [circleBotTelegram]() - Make your video to video message around the circle 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![UIkit](https://img.shields.io/badge/UIkit-%232396F3?style=for-the-badge&logo=uikit&logoColor=white)
+- [DormMarket]() - Peer-to-peer marketplace designed exclusively for students. My mini pet-project to improve my coding skills
+- [Navigation App](https://github.com/kubmakk/first-pet-project) - My first pet project: a great way to see my core skills.
 
 next project soon :)
+
+## My dev-life
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+- [LeetCode Solutions](https://github.com/kubmakk/LeetCode-Solutions) - all the tasks that I go through in LeetCode
+- [How i learn Swift](https://github.com/kubmakk/learn-Swift) - How I learn Swift or improve my language skills
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- [KTK](https://github.com/kubmakk/KTK) - contains various practical assignments and projects completed during my college classes.
+
+*my dev-life in telegram [Swift So Easy!](https://t.me/kubmak)*
