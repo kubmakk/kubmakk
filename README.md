@@ -21,7 +21,7 @@
 
 ## Info
 
-**Nikita**, 18 y.o.
+**Nikitos**, 18 y.o.
 
 Junior iOS Developer | Linux enthusiast 
 
@@ -33,12 +33,13 @@ Junior iOS Developer | Linux enthusiast
 
 **Meet me in Kazan:** [@KazanInIT](https://t.me/KazanInIT)
 
-**Website:** [kubmakk.ru](https://kubmakk.ru/)
+**My site:** [kubmakk.ru](https://kubmakk.ru/)
 
 ## Some of my projects
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [circleBotTelegram](https://github.com/kubmakk/circleBotTelegram) — Convert your videos into round video messages.
 - [AnonBot](https://github.com/kubmakk/AnonBot) — Allows people to send you messages anonymously.
+- [SglypaBot](https://github.com/kubmakk/sglypaBot) - A group bot that learns to communicate based on users
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
