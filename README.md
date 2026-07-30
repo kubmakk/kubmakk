@@ -46,6 +46,7 @@ Junior iOS Developer | Linux enthusiast
 ![UIKit](https://img.shields.io/badge/UIKit-%232396F3?style=for-the-badge&logo=uikit&logoColor=white)
 - [DormMarket]() — Peer-to-peer marketplace designed exclusively for students. A pet project to improve my coding skills.
 - [Navigation App](https://github.com/kubmakk/first-pet-project) — My first pet project: a great way to see my core skills.
+- [Logic Pro RPC](https://github.com/kubmakk/Logic-RPC) - Utility app for macOS that displays Logic Pro as your active status on Discord
 
 *Next project coming soon...* :)
 
