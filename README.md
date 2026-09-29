@@ -23,7 +23,7 @@
 
 **Nikitos**, 18 y.o.
 
-Junior iOS Developer | Linux enthusiast 
+iOS Developer | Linux enthusiast 
 
 ### My Languages:
 - Russian — **Native**
@@ -33,7 +33,7 @@ Junior iOS Developer | Linux enthusiast
 
 **Meet me in Kazan:** [@KazanInIT](https://t.me/KazanInIT)
 
-**My site:** [kubmakk.ru](https://kubmakk.ru/)
+**My site:** [kubmakk.dev](https://kubmakk.dev/)
 
 ## Some of my projects
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
